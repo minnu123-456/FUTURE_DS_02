@@ -123,39 +123,6 @@ The dashboard includes the following KPIs:
 
 ---
 
-## Dashboard Features
-
- Executive Summary
-
-* Total Customers
-* Churn Rate
-* Retention Rate
-* Average Monthly Charges
-
- Churn Analysis
-
-* Customer Churn Distribution
-* Churn Analysis by Contract Type
-* Churn Analysis by Payment Method
-* Churn Analysis by Internet Service
-
- Customer Behavior Analysis
-
-* Customer Tenure Distribution
-* Monthly Charges Impact on Churn
-* Senior Citizen Churn Analysis
-* Customer Segment Analysis
-
- Interactive Filters
-
-* Gender
-* Contract Type
-* Internet Service
-* Payment Method
-* Senior Citizen Status
-
----
-
 # Key Insights
 
 ### Insight 1
