@@ -1,6 +1,6 @@
-Customer Retention & Churn Analysis
+## Customer Retention & Churn Analysis
 
-Project Overview
+# Project Overview
 
 Customer churn is one of the most critical challenges faced by subscription-based businesses. This project focuses on analyzing customer behavior, identifying churn patterns, and discovering factors that influence customer retention.
 
@@ -8,13 +8,13 @@ Using customer subscription data, the analysis provides actionable insights that
 
 ---
 
-Problem Statement
+# Problem Statement
 
 Businesses often struggle to understand why customers leave their services. The objective of this project is to analyze customer data and identify the key factors contributing to customer churn while providing recommendations to improve customer retention.
 
 ---
 
- Objectives
+# Objectives
 
 * Analyze customer churn behavior
 * Calculate churn and retention rates
@@ -25,7 +25,7 @@ Businesses often struggle to understand why customers leave their services. The 
 
 ---
 
-Dataset Information
+# Dataset Information
 
 **Dataset:** Telco Customer Churn Dataset
 
@@ -46,7 +46,7 @@ Key Features
 
 ---
 
-Tools & Technologies Used
+# Tools & Technologies Used
 
 * Python
 * Pandas
@@ -83,7 +83,7 @@ Recommendations
 
 ---
 
-Data Cleaning
+# Data Cleaning
 
 The following preprocessing steps were performed:
 
@@ -96,7 +96,7 @@ The following preprocessing steps were performed:
 
 ---
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 The analysis focused on understanding customer behavior through:
 
@@ -111,7 +111,7 @@ The analysis focused on understanding customer behavior through:
 
 ---
 
- Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 The dashboard includes the following KPIs:
 
@@ -123,7 +123,7 @@ The dashboard includes the following KPIs:
 
 ---
 
- Dashboard Features
+# Dashboard Features
 
  Executive Summary
 
@@ -156,7 +156,7 @@ The dashboard includes the following KPIs:
 
 ---
 
- Key Insights
+# Key Insights
 
 ### Insight 1
 
@@ -207,7 +207,6 @@ Customers with higher monthly charges demonstrated increased churn tendencies.
 ---
 
 ## Project Structure
-## Project Structure
 
 ```text
 Customer-Retention-Churn-Analysis/
@@ -238,7 +237,7 @@ This project demonstrates how data analytics can be used to understand customer 
 
 ## Author
 
-**Nithika**
+**Nithika Gundu**
 
 Data Science & Analytics Intern
 
@@ -248,7 +247,7 @@ Data Science & Analytics Intern
 
 ## Connect With Me
 
-* LinkedIn: 
+* LinkedIn: www.linkedin.com/in/nithika456
 * GitHub: 
 
 ---
