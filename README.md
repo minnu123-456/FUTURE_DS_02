@@ -196,16 +196,17 @@ Customers with higher monthly charges demonstrated increased churn tendencies.
 
 ### Churn Analysis
 
-![Churn Analysis](Screenshots/churn_analysis.png)
+[Churn Analysis](screenshots/churn_analysis.png)
 
 
 ### Retention Analysis
 
-![Retention Analysis](Screenshots/retention_analysis.png)
+[Retention Analysis](screenshots/retention_analysis.png)
 
 
 ---
 
+## Project Structure
 ## Project Structure
 
 ```text
@@ -219,19 +220,14 @@ Customer-Retention-Churn-Analysis/
 │   └── churn_analysis.ipynb
 │
 ├── Dashboard/
-│   └── Customer_Churn_Dashboard.pbix
-│
-├── Reports/
-│   └── Customer_Churn_Report.pdf
+│   └── Customer_Churn_Retention_Dashboard.pbix
 │
 ├── Screenshots/
-│   ├── dashboard_overview.png
-│   ├── churn_analysis.png
-│   └── retention_analysis.png
+│   ├── churn_analysis_dashboard.png
+│   └── retention_analysis_dashboard.png
 │
 └── README.md
 ```
-
 ---
 
 ## Conclusion
