@@ -215,7 +215,7 @@ Data Science & Analytics Intern
 ## Connect With Me
 
 * LinkedIn: www.linkedin.com/in/nithika456
-* GitHub: 
+* GitHub: https://github.com/nithika1256
 
 ---
 
